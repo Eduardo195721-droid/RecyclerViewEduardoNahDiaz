@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewEduardoNahDiaz</string>
+    <string name="codelia">Codelia</string>
+    <string name="mexico">Mexico</string>
+    <string name="activo">Activo</string>
+    <string name="lista">Lista</string>
+</resources>
